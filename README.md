@@ -1,1 +1,1 @@
-it's an OS we're (me and EAQ150) trying to put all of my effort into. It may be dumb, but it _**might**_ work.
+AquaOS an operating system me and EAQ150 are trying to put all of our effort into making. It may seem dumb, but it _**may**_ work.
